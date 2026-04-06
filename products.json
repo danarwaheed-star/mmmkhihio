@@ -1,1 +1,16 @@
-
+[
+  {
+    "id": 1,
+    "name": "جهاز راوتر تبي لينك متطور",
+    "price": 35000,
+    "image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?w=500",
+    "category": "شبكات"
+  },
+  {
+    "id": 2,
+    "name": "لوحة شمسية 200 واط",
+    "price": 120000,
+    "image": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?w=500",
+    "category": "طاقة شمسية"
+  }
+]
